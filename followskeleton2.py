@@ -72,18 +72,4 @@ def login(username,passw,people):
 						continue
 
 
-# username='rehankhan12.21'
-# passw='bhakti@123'
-# person='humor.buzz'
-# login(username='rehankhan12.21',passw='bhakti@123')
-# follow(person='humor.buzz')
 
-
-##############  commands to upload on git ############################
-# git init 
-# git status
-# git add .
-# git status
-# git commit -m "first commit" .
-# git remote add origin https://github.com/greatret/steve.git (from repository )
-# git push -u origin master (from repository)
