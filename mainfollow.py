@@ -2,7 +2,7 @@
 import threading
 from win10toast import ToastNotifier
 from followskeleton2 import * 
-for i in range(6):
+for i in range(5):
 	
 	# if (i==0):
 	# 	id='be.shayar'
@@ -45,13 +45,7 @@ for i in range(6):
 	# 	z5=threading.Thread(target=login,args=(id,passw,people))
 	# 	z5.start()
 
-	# if (i==5):	
-	# 	id='rehankhan12.21'
-	# 	passw='bhakti@123'
-	# 	people=['sarcastic.family']
-	# 	print('starting kiara')
-	# 	z6=threading.Thread(target=login,args=(id,passw,people))
-	# 	z6.start()
+	
 
 	
 
@@ -60,21 +54,9 @@ for i in range(6):
 z3.join()	
 z4.join()
 # z5.join()
-# z6.join()
 print('done following')
 toaster = ToastNotifier()
 toaster.show_toast("Python Notification","Done following ",duration=360)
 
 
 
-# unsplash 
-# undraw 
-# coolors
-# figma
-#flaticon
-# pexels
-#blob.io
-#stories by freepik
-	# wednesday thursday design 
-	# friday saturday sunday react 
-	# monday tuesday college 
